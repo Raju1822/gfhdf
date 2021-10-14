@@ -16,7 +16,7 @@
 }
 .img-placeholder h4 {
   margin-top: 40%;
-  color: white;
+  color: rgb(233, 30, 30);
 }
 .img-div:hover .img-placeholder {
   display: block;
